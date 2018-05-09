@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on My zone</title>
+    <link>https://madevil1.github.io/mywebsite/portfolio/</link>
+    <description>Recent content in Portfolios on My zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 May 2018 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://madevil1.github.io/mywebsite/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>vending machine project</title>
+      <link>https://madevil1.github.io/mywebsite/portfolio/vending-machine-project/</link>
+      <pubDate>Wed, 02 May 2018 19:41:01 +0530</pubDate>
+      
+      <guid>https://madevil1.github.io/mywebsite/portfolio/vending-machine-project/</guid>
+      <description> Flow Chart Initial concepts for housing </description>
+    </item>
+    
+    <item>
+      <title>collection</title>
+      <link>https://madevil1.github.io/mywebsite/portfolio/collection/</link>
+      <pubDate>Tue, 01 May 2018 18:25:22 +0530</pubDate>
+      
+      <guid>https://madevil1.github.io/mywebsite/portfolio/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Lamp</title>
+      <link>https://madevil1.github.io/mywebsite/portfolio/table-lamp/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://madevil1.github.io/mywebsite/portfolio/table-lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphic design display</title>
+      <link>https://madevil1.github.io/mywebsite/portfolio/graphic-design-isplay/</link>
+      <pubDate>Fri, 04 May 2018 19:50:47 +0530</pubDate>
+      
+      <guid>https://madevil1.github.io/mywebsite/portfolio/graphic-design-isplay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
